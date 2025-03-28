@@ -1,5 +1,3 @@
----
-
 # BasePharyngitis  
 
 **BasePharyngitis** is a machine learning project that classifies throat images into two categories:  
