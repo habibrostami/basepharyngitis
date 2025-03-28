@@ -144,5 +144,3 @@ We welcome contributions to enhance BasePharyngitis. To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
 
 ---  
-
-Let me know if you’d like additional refinements or adjustments!
