@@ -7,7 +7,7 @@
 This is the repository for the official implementation of [A publicly available pharyngitis dataset and baseline evaluations for bacterial or nonbacterial classification](https://doi.org/10.1038/s41597-025-05780-5) published in _Scientific Data 12, Article number: 1418 (2025)_ 
 
 # 🔖 Citation
-If you find this code helpful in your research, please cite the following paper and dataset:
+If you find this repository, article, or dataset helpful in your research, please cite the following paper and dataset:
 ```
 @article{Shojaei2025,
   author    = {Negar Shojaei and Habib Rostami and Mohammad Barzegar and Shokooh Saadat Farzaneh and Zohreh Farrar and Majid Alimohammadi and Jahanbakhsh Keyvani and Mehdi Mirzad and Leila Gonbadi},
