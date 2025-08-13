@@ -1,5 +1,39 @@
 # BasePharyngitis  
 
+
+
+<br>
+
+This is the repository for the official implementation of [A publicly available pharyngitis dataset and baseline evaluations for bacterial or nonbacterial classification](https://doi.org/10.1038/s41597-025-05780-5) published in _Scientific Data 12, Article number: 1418 (2025)_ 
+
+# 🔖 Citation
+If you find this code helpful in your research, please cite the following paper and dataset:
+```
+@article{Shojaei2025,
+  author    = {Negar Shojaei and Habib Rostami and Mohammad Barzegar and Shokooh Saadat Farzaneh and Zohreh Farrar and Majid Alimohammadi and Jahanbakhsh Keyvani and Mehdi Mirzad and Leila Gonbadi},
+  title     = {A publicly available pharyngitis dataset and baseline evaluations for bacterial or nonbacterial classification},
+  journal   = {Scientific Data},
+  year      = {2025},
+  volume    = {12},
+  number    = {1},
+  pages     = {1418},
+  doi       = {10.1038/s41597-025-05780-5},
+  url       = {https://doi.org/10.1038/s41597-025-05780-5},
+  issn      = {2052-4463}
+}
+```
+
+```
+@misc{shojaei2025pharyngitis,
+  author       = {Negar Shojaei and Habib Rostami and Mohammad Barzegar and Shokooh Saadat Farzaneh and Zohreh Farrar and Majid Alimohammadi and Jahanbakhsh Keyvani and Mehdi Mirzad and Leila Gonbadi},
+  title        = {A publicly available pharyngitis dataset and baseline evaluations for bacterial or nonbacterial classification},
+  year         = {2025},
+  doi          = {10.6084/m9.figshare.28163513},
+  url          = {https://doi.org/10.6084/m9.figshare.28163513},
+  note         = {figshare}
+}
+```
+
 **BasePharyngitis** is a machine learning project that classifies throat images into two categories:  
 - **Bacterial Pharyngitis**  
 - **Non-Bacterial Pharyngitis**  
